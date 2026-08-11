@@ -84,20 +84,12 @@
   <img src="https://streak-stats.demolab.com/?user=DynamicShubham&theme=gruvbox&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C7B7,100:6DA55F&height=3&section=header" width="100%"/>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DynamicShubham&theme=gruvbox&no-frame=false&no-bg=false&margin-w=12&column=4" alt="GitHub Trophies" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6DA55F,100:0077B5&height=3&section=header" width="100%"/>
 
-### 🏙️ 3D Contribution Skyline
+### 🐍 Contribution Graph & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DynamicShubham/DynamicShubham/output/github-contribution-grid-snake-dark.svg" alt="3D contribution skyline" width="100%" />
+  <img src="https://raw.githubusercontent.com/DynamicShubham/DynamicShubham/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 <p align="center">
