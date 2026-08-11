@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-blue?style=plastic&logo=github&logoColor=white" alt="views label" />
-  <img src="https://komarev.com/ghpvc/?username=DynamicShubham&label=&color=0e75b6&style=plastic" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C7B7&height=3&section=header" width="100%"/>
 </p>
 
