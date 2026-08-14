@@ -99,5 +99,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,50:00C7B7,100:0077B5&height=120&section=footer" width="100%"/>
 </p>
-
-<p align="center"><i>✨ Proudly crafted with ❤️ — feel free to explore my repositories and reach out! ✨</i></p>
